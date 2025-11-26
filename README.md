@@ -67,3 +67,7 @@ Certifique-se de ter o **Node.js** instalado em seu ambiente.
 
 ***
 
+IMAGENS DO SITE NO LINKEDIN ABAIXO:
+
+www.linkedin.com/in/lucasfernandes-fullstack
+
