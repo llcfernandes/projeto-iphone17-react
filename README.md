@@ -67,7 +67,7 @@ Certifique-se de ter o **Node.js** instalado em seu ambiente.
 
 ***
 
-IMAGENS DO SITE NO LINKEDIN ABAIXO:
+LINK:
 
-www.linkedin.com/in/lucasfernandes-fullstack
+https://projeto-iphone17-react.vercel.app
 
