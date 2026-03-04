@@ -63,7 +63,7 @@ Certifique-se de ter o **Node.js** instalado em seu ambiente.
 
 ## 👤 Autor
 
-* **@llcfernandes** 
+* **Lucas Fernandes** 
 
 ***
 
