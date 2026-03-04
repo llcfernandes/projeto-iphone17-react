@@ -3,9 +3,9 @@ import { useState } from "react";
 function Colors(){
 
     const colors = [
-      { id: "blue", name: "Titânio Azul", image: "/public/img/iphone-blue.jpg", colorClass: "bg-blue-500",},
-      { id: "silver", name: "Titânio Natural", image: "/public/img/iphone-silver.jpg", colorClass: "bg-gray-300",},
-      { id: "orange", name: "Titânio Laranja", image: "/public/img/iphone-orange.jpg", colorClass: "bg-orange-500",},
+      { id: "blue", name: "Titânio Azul", image: "/img/iphone-blue.jpg", colorClass: "bg-blue-500",},
+      { id: "silver", name: "Titânio Natural", image: "/img/iphone-silver.jpg", colorClass: "bg-gray-300",},
+      { id: "orange", name: "Titânio Laranja", image: "/img/iphone-orange.jpg", colorClass: "bg-orange-500",},
     ];
 
     const models = [
@@ -60,7 +60,7 @@ function Colors(){
                 </div>
 
                     <div className="text-center mt-16">
-                        <button className="bg-blue-7000 hover:bg-blue-800 text-white px-12 py-4 rounded-full text-lg font-medium transition-all duration-300 mb-8 hover:scale-105 shadow-md shadow-blue-500/50 cursor-pointer">
+                        <button className="bg-blue-700 hover:bg-blue-800 text-white px-12 py-4 rounded-full text-lg font-medium transition-all duration-300 mb-8 hover:scale-105 shadow-md shadow-blue-500/50 cursor-pointer">
                             Compre agora á partir de R$ 9.950,00
                         </button>
                         <p>Ou em até 12x de R$ 994,92 sem juros</p>
